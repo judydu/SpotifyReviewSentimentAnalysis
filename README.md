@@ -31,4 +31,4 @@ This project uses web-scraped Google Play Store reviews regarding the Spotify ap
 
 **Opportunities:**
 
-(1) Perform aspect-based sentiment analysis to understand what users specifically like and dislike about the app. This can be done by identify aspects, such as music selection and ads, and or leveraging other techniques such as topic modeling
+(1) Perform aspect-based sentiment analysis to understand what users specifically like and dislike about the app. This can be done by identifying aspects, such as music selection and ads, and or leveraging other techniques such as topic modeling

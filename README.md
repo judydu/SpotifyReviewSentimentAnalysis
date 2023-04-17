@@ -12,8 +12,8 @@ This project uses web-scraped Google Play Store reviews regarding the Spotify ap
 
 (2) Perform entity-based sentiment analysis (SA) to classify users' app review ratings (1-5 stars) as positive, neutral, or negative. Binary and multi-class classification are explored, where the ratings are categorized as follows:
 
-* Binary classification: positive (4 stars or above), neutral (3 stars), negative (2 stars or below)
-* Multi-class classification: positive (4 stars or above), negative (3 stars or below)
+* Binary classification: positive (4 stars or above), negative (3 stars or below)
+* Multi-class classification: positive (4 stars or above), neutral (3 stars), negative (2 stars or below)
 
 <br>
 
